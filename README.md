@@ -61,7 +61,6 @@ https://hackingpassion.com/anon-eye/
 
 ## Video demo:
 
-<!-- Jolanda: hier de videolink, zoals bij Ghost Eye -->
 **[Video](https://hackingpassion.com)**
 
 ## Install and run on Linux
